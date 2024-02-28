@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-27T08:39:37Z" name="Default suite" finished-at="2024-02-27T08:39:46Z" duration-ms="8913">
+  <suite started-at="2024-02-28T05:18:19Z" name="Suite" finished-at="2024-02-28T05:18:26Z" duration-ms="6954">
     <groups>
     </groups>
-    <test started-at="2024-02-27T08:39:37Z" name="Default test" finished-at="2024-02-27T08:39:46Z" duration-ms="8913">
-      <class name="DataDriven.WriteExcel">
-        <test-method signature="fblogin()[pri:0, instance:DataDriven.WriteExcel@2e48362c]" started-at="2024-02-27T14:09:37Z" name="fblogin" finished-at="2024-02-27T14:09:46Z" duration-ms="8884" status="PASS">
+    <test started-at="2024-02-28T05:18:19Z" name="Test" finished-at="2024-02-28T05:18:26Z" duration-ms="6954">
+      <class name="DataDriven.ReadData">
+        <test-method signature="fblogin()[pri:0, instance:DataDriven.ReadData@65b3f4a4]" started-at="2024-02-28T10:48:19Z" name="fblogin" finished-at="2024-02-28T10:48:26Z" duration-ms="6927" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fblogin -->
-      </class> <!-- DataDriven.WriteExcel -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- DataDriven.ReadData -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
